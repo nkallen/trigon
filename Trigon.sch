@@ -792,7 +792,7 @@ U 1 1 5F0AFDB5
 P 10100 3050
 F 0 "SW2" H 10100 2683 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 10100 2774 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm" H 9950 3210 50  0001 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 9950 3210 50  0001 C CNN
 F 3 "~" H 10100 3310 50  0001 C CNN
 	1    10100 3050
 	-1   0    0    1   
