@@ -5,4 +5,7 @@
   (lib (name Trigon)(type KiCad)(uri /Users/nickkallen/Documents/Trigon)(options "")(descr ""))
   (lib (name acheron_Connectors)(type KiCad)(uri ${KIPRJMOD}/AcheronLibrary/footprints/acheron_Connectors.pretty)(options "")(descr ""))
   (lib (name acheron_Hardware)(type KiCad)(uri ${KIPRJMOD}/AcheronLibrary/footprints/acheron_Hardware.pretty)(options "")(descr ""))
+  (lib (name acheron_Components)(type KiCad)(uri ${KIPRJMOD}/AcheronLibrary/footprints/acheron_Components.pretty)(options "")(descr ""))
+  (lib (name josh-passives-smt)(type KiCad)(uri ${KIPRJMOD}/josh-kicad-lib/josh-passives-smt.pretty)(options "")(descr ""))
+  (lib (name josh-dfn-qfn)(type KiCad)(uri ${KIPRJMOD}/josh-kicad-lib/josh-dfn-qfn.pretty)(options "")(descr ""))
 )

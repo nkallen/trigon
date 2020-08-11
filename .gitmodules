@@ -19,3 +19,6 @@
 [submodule "AcheronLibrary"]
 	path = AcheronLibrary
 	url = https://github.com/AcheronProject/AcheronLibrary.git
+[submodule "josh-kicad-lib"]
+	path = josh-kicad-lib
+	url = https://github.com/joshajohnson/josh-kicad-lib.git
