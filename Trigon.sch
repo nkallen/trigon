@@ -1046,21 +1046,6 @@ Wire Wire Line
 Wire Wire Line
 	2300 2850 2450 2850
 $Comp
-L Device:Crystal_GND24_Small Y1
-U 1 1 5F1152C0
-P 1750 2350
-F 0 "Y1" V 1704 2494 50  0000 L CNN
-F 1 "16MHz" V 1795 2494 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 1750 2350 50  0001 C CNN
-F 3 "~" H 1750 2350 50  0001 C CNN
-	1    1750 2350
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	2700 2250 2450 2250
-Wire Wire Line
-	2700 2450 2450 2450
-$Comp
 L Device:C_Small C2
 U 1 1 5F12F594
 P 1350 2500
@@ -1082,10 +1067,8 @@ F 3 "" H 1250 2750 50  0001 C CNN
 	1    1250 2750
 	1    0    0    -1  
 $EndComp
-Connection ~ 2450 2250
 Wire Wire Line
 	2450 2250 1750 2250
-Connection ~ 2450 2450
 Wire Wire Line
 	2450 2450 1750 2450
 Connection ~ 1250 2500
@@ -1390,17 +1373,6 @@ Wire Wire Line
 	4100 9650 4100 9700
 Wire Wire Line
 	2400 7250 2400 7350
-$Comp
-L Device:D_TVS D27
-U 1 1 5F53CCD5
-P 4000 7600
-F 0 "D27" V 3954 7679 50  0000 L CNN
-F 1 "9V Breakdown" V 4045 7679 50  0000 L CNN
-F 2 "acheron_Components:D_SOD-123_Bidirectional" H 4000 7600 50  0001 C CNN
-F 3 "~" H 4000 7600 50  0001 C CNN
-	1    4000 7600
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	4000 7250 4000 7450
 Wire Wire Line
@@ -2224,7 +2196,7 @@ L Device:Polyfuse_Small F2
 U 1 1 6007BC9C
 P 19400 7950
 F 0 "F2" V 19195 7950 50  0000 C CNN
-F 1 "500mA" V 19286 7950 50  0000 C CNN
+F 1 "200mA" V 19286 7950 50  0000 C CNN
 F 2 "Fuse:Fuse_1206_3216Metric" H 19450 7750 50  0001 L CNN
 F 3 "~" H 19400 7950 50  0001 C CNN
 	1    19400 7950
@@ -2532,7 +2504,7 @@ L Device:D_TVS D28
 U 1 1 5F6DB83D
 P 19750 8200
 F 0 "D28" V 19704 8279 50  0000 L CNN
-F 1 "9V Breakdown" V 19795 8279 50  0000 L CNN
+F 1 "6V Breakdown" V 19795 8279 50  0000 L CNN
 F 2 "acheron_Components:D_SOD-123_Bidirectional" H 19750 8200 50  0001 C CNN
 F 3 "~" H 19750 8200 50  0001 C CNN
 	1    19750 8200
@@ -2590,4 +2562,26 @@ Text Notes 10600 8550 0    157  ~ 0
 USB hub
 Text Notes 16900 7350 0    157  ~ 0
 downstream usb connector + esd protection\n
+$Comp
+L Device:Crystal_GND24_Small Y1
+U 1 1 5F1152C0
+P 1750 2350
+F 0 "Y1" V 1704 2494 50  0000 L CNN
+F 1 "16MHz" V 1795 2494 50  0000 L CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 1750 2350 50  0001 C CNN
+F 3 "~" H 1750 2350 50  0001 C CNN
+	1    1750 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_TVS D27
+U 1 1 5F53CCD5
+P 4000 7600
+F 0 "D27" V 3954 7679 50  0000 L CNN
+F 1 "6V Breakdown" V 4045 7679 50  0000 L CNN
+F 2 "acheron_Components:D_SOD-123_Bidirectional" H 4000 7600 50  0001 C CNN
+F 3 "~" H 4000 7600 50  0001 C CNN
+	1    4000 7600
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
