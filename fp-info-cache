@@ -1,4 +1,4 @@
-17486608021473154
+17507370215030317
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -77314,6 +77314,97 @@ bluePill
 0
 50
 49
+josh-dfn-qfn
+QFN-16-1EP_3x3mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+16-Lead Plastic Quad Flat, No Lead Package (NG) - 3x3x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.5
+0
+26
+17
+josh-dfn-qfn
+QFN-20-1EP_4x4mm_P0.5mm_EP2.15x2.15mm_ThermalVias
+QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=274), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+30
+21
+josh-dfn-qfn
+QFN-20-1EP_4x4mm_P0.5mm_EP2x2mm_ThermalVias
+QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=274), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+29
+21
+josh-dfn-qfn
+QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.6mm_ThermalVias
+QFN, 24 Pin (https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+38
+25
+josh-dfn-qfn
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+54
+29
+josh-dfn-qfn
+QFN-32-1EP_5x5mm_Pitch0.5mm_Thermal_Vias
+UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)
+QFN 0.5
+0
+45
+33
+josh-dfn-qfn
+QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm_ThermalVias
+QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+74
+49
+josh-dfn-qfn
+QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm_ThermalVias
+QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+74
+49
+josh-dfn-qfn
+QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm_ThermalVias
+QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+90
+65
+josh-dfn-qfn
+UQFN-10_1.4x1.8_Pitch0.4mm
+
+
+0
+10
+10
+josh-dfn-qfn
+USON-8-1EP_3x4mm_P0.8mm_EP2.4x0.2mm
+DFN, 8 Pin (https://www.st.com/resource/en/datasheet/ld1086.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+9
+9
+josh-dfn-qfn
+VSON-6-1EP_3x3mm_P0.65mm_EP1.65x2.4mm
+VSON, 10 Pin (http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd8314nuv-e.pdf (Page 20)), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+13
+9
+josh-dfn-qfn
+WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
+WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+9
+7
 josh-passives-smt
 D_SOD-123FL
 D_SOD-123F
