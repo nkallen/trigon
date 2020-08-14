@@ -818,7 +818,7 @@ U 1 1 5F0AFDB5
 P 21350 3600
 F 0 "SW2" H 21350 3233 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 21350 3324 50  0000 C CNN
-F 2 "Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 21200 3760 50  0001 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 21200 3760 50  0001 C CNN
 F 3 "~" H 21350 3860 50  0001 C CNN
 	1    21350 3600
 	-1   0    0    1   
@@ -1156,7 +1156,7 @@ F 0 "SW1" H 1950 1885 50  0000 C CNN
 F 1 "SW_Push" H 1950 1794 50  0000 C CNN
 F 2 "random-keyboard-parts:SKQG-1155865" H 1950 1800 50  0001 C CNN
 F 3 "~" H 1950 1800 50  0001 C CNN
-F 4 "TS-1186D-C-A" H 1950 1600 50  0001 C CNN "Manufacturer Part #"
+F 4 "TS-1187A-B-A-B" H 1950 1600 50  0001 C CNN "Manufacturer Part #"
 	1    1950 1600
 	1    0    0    -1  
 $EndComp
@@ -1532,10 +1532,8 @@ Text GLabel 11850 9350 2    50   Input ~ 0
 D1_D-
 Text GLabel 11850 9450 2    50   Input ~ 0
 D1_D+
-Text GLabel 11850 9750 2    50   Input ~ 0
+Text GLabel 11850 10550 2    50   Input ~ 0
 D2_D-
-NoConn ~ 11850 10550
-NoConn ~ 11850 10650
 $Comp
 L power:GND #PWR0129
 U 1 1 5F7F5839
@@ -1553,7 +1551,7 @@ Wire Wire Line
 	11900 11050 11850 11050
 Text GLabel 11850 9550 2    50   Input ~ 0
 nOVR_1
-Text GLabel 11850 9850 2    50   Input ~ 0
+Text GLabel 11850 10650 2    50   Input ~ 0
 D2_D+
 Text GLabel 11850 9950 2    50   Input ~ 0
 nOVR_2
@@ -2614,21 +2612,21 @@ Wire Wire Line
 Wire Wire Line
 	20150 7150 20600 7150
 $Comp
-L Connector_Generic:Conn_01x05 J?
+L Connector_Generic:Conn_01x05 J3
 U 1 1 5F445C4B
 P 19650 12900
-F 0 "J?" H 19730 12942 50  0000 L CNN
+F 0 "J3" H 19730 12942 50  0000 L CNN
 F 1 "Conn_01x05" H 19730 12851 50  0000 L CNN
-F 2 "" H 19650 12900 50  0001 C CNN
+F 2 "Connector_JST:JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal" H 19650 12900 50  0001 C CNN
 F 3 "~" H 19650 12900 50  0001 C CNN
 	1    19650 12900
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0125
 U 1 1 5F448257
 P 18850 12900
-F 0 "#PWR?" H 18850 12750 50  0001 C CNN
+F 0 "#PWR0125" H 18850 12750 50  0001 C CNN
 F 1 "+5V" H 18865 13073 50  0000 C CNN
 F 2 "" H 18850 12900 50  0001 C CNN
 F 3 "" H 18850 12900 50  0001 C CNN
@@ -2636,10 +2634,10 @@ F 3 "" H 18850 12900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0142
 U 1 1 5F449573
 P 19150 13350
-F 0 "#PWR?" H 19150 13100 50  0001 C CNN
+F 0 "#PWR0142" H 19150 13100 50  0001 C CNN
 F 1 "GND" H 19155 13177 50  0000 C CNN
 F 2 "" H 19150 13350 50  0001 C CNN
 F 3 "" H 19150 13350 50  0001 C CNN
@@ -2657,4 +2655,17 @@ D2_D+
 Wire Wire Line
 	19450 12900 18850 12900
 NoConn ~ 19450 13000
+NoConn ~ 11850 9750
+NoConn ~ 11850 9850
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F80E537
+P 1450 14300
+F 0 "H1" H 1550 14346 50  0000 L CNN
+F 1 "Logo" H 1550 14255 50  0000 L CNN
+F 2 "Trigon:wiggle" H 1450 14300 50  0001 C CNN
+F 3 "~" H 1450 14300 50  0001 C CNN
+	1    1450 14300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
