@@ -1,4 +1,4 @@
-17654333793890317
+17278418522426317
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50266,972 +50266,6 @@ solder jumper open
 0
 5
 3
-Keebio-Parts
-3_Pin_Jumper
-
-
-0
-9
-3
-Keebio-Parts
-4pin35mmAudio
-
-
-0
-6
-6
-Keebio-Parts
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
-0
-2
-2
-Keebio-Parts
-AT90USB1286_TQFP_14mm
-64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-64
-64
-Keebio-Parts
-ATMEGA32U4-AU
-
-
-0
-44
-44
-Keebio-Parts
-ArduinoProMicro
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-Mini-USB
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-Mini-USB-No-Text
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-Mini-USB-ZigZag
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-TopSide
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-ZigZag
-
-
-0
-24
-24
-Keebio-Parts
-CUI_SJ-43614-SMT
-
-
-0
-4
-4
-Keebio-Parts
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
-0
-2
-2
-Keebio-Parts
-C_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Keebio-Parts
-Cherry-MX-Low-Profile
-
-
-0
-2
-2
-Keebio-Parts
-Crystal_SMD_2520-4pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-Keebio-Parts
-Crystal_SMD_3225-4pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-Keebio-Parts
-D_0805
-
-
-0
-2
-2
-Keebio-Parts
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-Keebio-Parts
-D_SOD123
-
-
-0
-2
-2
-Keebio-Parts
-D_SOD123F
-
-
-0
-2
-2
-Keebio-Parts
-Diode
-
-
-0
-2
-2
-Keebio-Parts
-Diode-Hybrid-Back
-
-
-0
-6
-2
-Keebio-Parts
-Diode-dual
-
-
-0
-10
-2
-Keebio-Parts
-Diode-hybrid-3pad
-
-
-0
-6
-2
-Keebio-Parts
-Diode_Long
-
-
-0
-2
-2
-Keebio-Parts
-Elite-C
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-ZigZag
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-Keebio-Parts
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-Keebio-Parts
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-Keebio-Parts
-Epson_TSX-3225
-
-
-0
-4
-4
-Keebio-Parts
-Fuse_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Keebio-Parts
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Keebio-Parts
-Header-6-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts
-Header-12-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Keebio-Parts
-Header-12-Pin-ZigZag-Square
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Keebio-Parts
-ICSP-Header
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts
-ICSP-Header-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts
-JUMPER_SMD_2DUB
-
-
-0
-12
-2
-Keebio-Parts
-KLJ-1102
-
-
-0
-2
-2
-Keebio-Parts
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1.25u-LED-flip
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1u-No-Clickhole
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1u-reversible
-
-
-0
-5
-4
-Keebio-Parts
-Kailh-PG1350-1u-reversible-No-Clickhole
-
-
-0
-5
-4
-Keebio-Parts
-Kailh-PG1350-1u-reversible-flip
-
-
-0
-5
-4
-Keebio-Parts
-LED_3mm
-
-
-0
-2
-2
-Keebio-Parts
-LQFP-48_7x7mm_Pitch0.5mm
-48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Keebio-Parts
-Low-Profile-Choc-MX
-
-
-0
-5
-4
-Keebio-Parts
-MD_Diode
-
-
-0
-2
-2
-Keebio-Parts
-MX-Alps-Choc-1U
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps-Choc-1U-No-Clickhole
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps-Choc-1U-NoLED
-
-
-0
-6
-2
-Keebio-Parts
-MX-Alps-Choc-1U-NoLED-Alt
-
-
-0
-6
-2
-Keebio-Parts
-MX-Alps-Choc-2U
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps-Choc-2U-StabFlip
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps_DMask
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_FMask
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_FMask-2u
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_Switch_Cutout
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_Switch_Cutout-1u_1.25u
-
-
-0
-0
-0
-Keebio-Parts
-MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
-
-
-0
-0
-0
-Keebio-Parts
-MX-Alps_Switch_Cutout-1u_2u
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_Switch_Cutout-3u-wide
-
-
-0
-0
-0
-Keebio-Parts
-MX-Quad
-MX/Alps footprint
-
-0
-8
-2
-Keebio-Parts
-MX_FMask
-
-
-0
-2
-1
-Keebio-Parts
-MX_FMask-2u
-
-
-0
-3
-1
-Keebio-Parts
-MX_FMask-2u-with-cutout
-
-
-0
-2
-1
-Keebio-Parts
-MX_FMask-with-cutout
-
-
-0
-2
-1
-Keebio-Parts
-MX_LED
-
-
-0
-2
-2
-Keebio-Parts
-MX_Stabilizer_Cutout
-
-
-0
-0
-0
-Keebio-Parts
-MX_Stabilizer_Cutout-2u
-
-
-0
-0
-0
-Keebio-Parts
-MX_Switch_Cutout
-
-
-0
-0
-0
-Keebio-Parts
-MX_Switch_Mod_Cutout
-
-
-0
-0
-0
-Keebio-Parts
-Mini-USB
-
-
-0
-7
-6
-Keebio-Parts
-MountingHole
-
-
-0
-1
-0
-Keebio-Parts
-QFN-44-1EP_7x7mm_Pitch0.5mm
-UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
-QFN 0.5
-0
-60
-45
-Keebio-Parts
-RGB-6028
-
-
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-R_0402
-Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0402
-0
-2
-2
-Keebio-Parts
-R_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Keebio-Parts
-R_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Keebio-Parts
-Resistor
-
-
-0
-2
-2
-Keebio-Parts
-Resistor-Compact
-
-
-0
-2
-2
-Keebio-Parts
-Resistor-Compact-1-side
-
-
-0
-2
-2
-Keebio-Parts
-Resistor-Hybrid
-
-
-0
-10
-2
-Keebio-Parts
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-Keebio-Parts
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-Keebio-Parts
-RotaryEncoder_EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts
-SM0805D
-
-
-0
-2
-2
-Keebio-Parts
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-Keebio-Parts
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-Keebio-Parts
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
-0
-3
-3
-Keebio-Parts
-SOT-143B
-SOT143B
-
-0
-4
-4
-Keebio-Parts
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-Keebio-Parts
-SW_SPST_3x3
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Keebio-Parts
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Keebio-Parts
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-Keebio-Parts
-SW_Tactile_SPST_Angled_MJTP1117-no-mount
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-2
-2
-Keebio-Parts
-SinglePad
-
-
-0
-1
-1
-Keebio-Parts
-SolderJumper
-
-
-0
-4
-3
-Keebio-Parts
-SolderJumperLeft
-
-
-0
-3
-3
-Keebio-Parts
-SolderJumperPair
-
-
-0
-6
-3
-Keebio-Parts
-SolderJumperRight
-
-
-0
-3
-3
-Keebio-Parts
-SolderJumperSet
-
-
-0
-12
-6
-Keebio-Parts
-SolderJumperSets
-
-
-0
-6
-2
-Keebio-Parts
-SolidCopper
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
-0
-2
-1
-Keebio-Parts
-TQFP-44_10x10mm_Pitch0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-Keebio-Parts
-TQFP-48_7x7mm_Pitch0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Keebio-Parts
-TRRS-PJ-320A
-
-
-0
-4
-4
-Keebio-Parts
-TRRS-PJ-320A-dual
-
-
-0
-5
-4
-Keebio-Parts
-TRRS-PJ-320A-no-Fmask
-
-
-0
-8
-4
-Keebio-Parts
-TRRS-PJ-320D
-
-
-0
-4
-4
-Keebio-Parts
-TRRS_Jack
-
-
-0
-6
-6
-Keebio-Parts
-TRRS_Jack-one-sided
-
-
-0
-4
-4
-Keebio-Parts
-TRRS_Jumper
-
-
-0
-6
-6
-Keebio-Parts
-Teensy_2.0
-
-
-0
-31
-31
-Keebio-Parts
-Triple-Dual-1u-LED
-
-
-0
-21
-4
-Keebio-Parts
-Triple-Dual-1u-LED-flip
-
-
-0
-21
-4
-Keebio-Parts
-Triple-Dual-2u-LED
-
-
-0
-21
-4
-Keebio-Parts
-Triple-Dual-2u-LED-stab-flip
-
-
-0
-21
-4
-Keebio-Parts
-USB-Mini-B_ LCSC-C46398
-
-
-0
-9
-6
-Keebio-Parts
-USB-Mini-B_2leg
-
-
-0
-7
-6
-Keebio-Parts
-USB_miniB_HandSolder
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-Keebio-Parts
-VIA-0.6mm
-
-
-0
-1
-1
-Keebio-Parts
-WS2812B
-
-
-0
-4
-4
-Keebio-Parts
-breakaway-hole
-
-
-0
-0
-0
-Keebio-Parts
-breakaway-hole-big
-
-
-0
-0
-0
-Keebio-Parts
-breakaway-mousebites
-
-
-0
-0
-0
-Keebio-Parts
-solder_jumper
-
-
-0
-2
-2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -76033,20 +75067,6 @@ transformer flyback
 0
 10
 10
-Trigon
-wiggle
-
-
-0
-0
-0
-Trigon
-wiggle-mask
-
-
-0
-0
-0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -76825,21 +75845,7 @@ ACM2012-2P
 4
 4
 acheron_Components
-ACM2012-2P 2
-
-
-0
-4
-4
-acheron_Components
 C_0805_2012Metric
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-acheron_Components
-C_0805_2012Metric 2
 Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 capacitor
 0
@@ -76853,21 +75859,7 @@ SMD SMT crystal
 2
 2
 acheron_Components
-Crystal_SMD_0603-2Pin_6.0x3.5mm 2
-SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package
-SMD SMT crystal
-0
-2
-2
-acheron_Components
 Crystal_SMD_2016-4Pin_2.0x1.6mm
-SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheron_Components
-Crystal_SMD_2016-4Pin_2.0x1.6mm 2
 SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
 SMD SMT crystal
 0
@@ -76881,21 +75873,7 @@ SMD SMT crystal hand-soldering
 2
 2
 acheron_Components
-Crystal_SMD_5032-2Pin 2
-SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package
-SMD SMT crystal hand-soldering
-0
-2
-2
-acheron_Components
 Crystal_SMD_5032-2Pin_5.0x3.2mm
-SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-2
-2
-acheron_Components
-Crystal_SMD_5032-2Pin_5.0x3.2mm 2
 SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
 SMD SMT crystal
 0
@@ -76909,21 +75887,7 @@ SMD SMT crystal
 4
 4
 acheron_Components
-Crystal_SMD_5032-4Pin 2
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheron_Components
 Crystal_SMD_5032-4Pin-HandSolder
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheron_Components
-Crystal_SMD_5032-4Pin-HandSolder 2
 SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
 SMD SMT crystal
 0
@@ -76937,21 +75901,7 @@ SMD SMT crystal
 4
 4
 acheron_Components
-Crystal_SMD_5032-4Pin_5.0x3.2mm 2
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheron_Components
 D_DO-35_SOD27_P7.62mm
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-acheron_Components
-D_DO-35_SOD27_P7.62mm 2
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
 Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
 0
@@ -76965,21 +75915,7 @@ SOD-123
 2
 2
 acheron_Components
-D_SOD-123 2
-SOD-123
-SOD-123
-0
-2
-2
-acheron_Components
 D_SOD-123_Bidirectional
-SOD-123
-SOD-123
-0
-2
-2
-acheron_Components
-D_SOD-123_Bidirectional 2
 SOD-123
 SOD-123
 0
@@ -76993,21 +75929,7 @@ SOD-323
 2
 2
 acheron_Components
-D_SOD-323 2
-SOD-323
-SOD-323
-0
-2
-2
-acheron_Components
 D_THT_7.62mm
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-acheron_Components
-D_THT_7.62mm 2
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
 Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
 0
@@ -77021,21 +75943,7 @@ Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 
 4
 2
 acheron_Components
-D_THT_7.62mm_SOD-123 2
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-4
-2
-acheron_Components
 E6C1209RGB
-
-
-0
-4
-4
-acheron_Components
-E6C1209RGB 2
 
 
 0
@@ -77049,21 +75957,7 @@ EXC14CG-CE
 4
 4
 acheron_Components
-EXC14CG-CE 2
-
-
-0
-4
-4
-acheron_Components
 Fuse_1812_4532
-Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor
-0
-2
-2
-acheron_Components
-Fuse_1812_4532 2
 Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
 resistor
 0
@@ -77077,21 +75971,7 @@ LED_RGB_SMD_6028_2.8x3.5mm
 4
 4
 acheron_Components
-LED_RGB_SMD_6028_2.8x3.5mm 2
-
-
-0
-4
-4
-acheron_Components
 LED_RGB_SMD_6028_2.8x3.5mm_Round
-
-
-0
-4
-4
-acheron_Components
-LED_RGB_SMD_6028_2.8x3.5mm_Round 2
 
 
 0
@@ -77105,21 +75985,7 @@ LED_SMD_0805
 2
 2
 acheron_Components
-LED_SMD_0805 2
-
-
-0
-2
-2
-acheron_Components
 LED_SMD_1206
-
-
-0
-2
-2
-acheron_Components
-LED_SMD_1206 2
 
 
 0
@@ -77133,21 +75999,7 @@ LED_THT_2.54mm
 4
 2
 acheron_Components
-LED_THT_2.54mm 2
-
-
-0
-4
-2
-acheron_Components
 LED_WS2812_2020
-
-
-0
-4
-4
-acheron_Components
-LED_WS2812_2020 2
 
 
 0
@@ -77161,21 +76013,7 @@ LQFP QFP
 48
 48
 acheron_Components
-LQFP-48_7x7mm_P0.5mm 2
-LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-LQFP QFP
-0
-48
-48
-acheron_Components
 MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
-MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
-SSOP 0.65
-0
-13
-9
-acheron_Components
-MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm 2
 MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
 SSOP 0.65
 0
@@ -77189,21 +76027,7 @@ QFN NoLead
 33
 29
 acheron_Components
-QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm 2
-QFN, 28 Pin (http://www.issi.com/WW/pdf/31FL3731.pdf#page=21), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-33
-29
-acheron_Components
 QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
-QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-61
-45
-acheron_Components
-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm 2
 QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
 0
@@ -77217,21 +76041,7 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W le
 2
 2
 acheron_Components
-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal 2
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-acheron_Components
 R_SMD_1206
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-acheron_Components
-R_SMD_1206 2
 Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 resistor handsolder
 0
@@ -77245,21 +76055,7 @@ Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.
 2
 2
 acheron_Components
-R_THT_5.08mm_Horizontal 2
-Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
-0
-2
-2
-acheron_Components
 SK6812MINI_3535_6028_3.2x2.8mm_Round
-
-
-0
-4
-4
-acheron_Components
-SK6812MINI_3535_6028_3.2x2.8mm_Round 2
 
 
 0
@@ -77273,13 +76069,6 @@ SOIC 1.27
 8
 8
 acheron_Components
-SOIC-8 2
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-acheron_Components
 SOP-8_3.76x4.96mm_P1.27mm
 SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
@@ -77287,21 +76076,7 @@ SOP SO
 8
 8
 acheron_Components
-SOP-8_3.76x4.96mm_P1.27mm 2
-SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOP SO
-0
-8
-8
-acheron_Components
 SOT-23-6
-6-pin SOT-23 package
-SOT-23-6
-0
-6
-6
-acheron_Components
-SOT-23-6 2
 6-pin SOT-23 package
 SOT-23-6
 0
@@ -77315,13 +76090,6 @@ QFP 0.8
 44
 44
 acheron_Components
-TQPF-44_10x10mm_P0.8mm 2
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-acheron_Components
 UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm
 UQFN, 48 Pin (https://github.com/KiCad/kicad-symbols/pull/1189#issuecomment-449506354), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 UQFN DFN_QFN
@@ -77329,21 +76097,7 @@ UQFN DFN_QFN
 53
 49
 acheron_Components
-UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm 2
-UQFN, 48 Pin (https://github.com/KiCad/kicad-symbols/pull/1189#issuecomment-449506354), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-UQFN DFN_QFN
-0
-53
-49
-acheron_Components
 USON-10_2.5x1.0mm_P0.5mm
-USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
-USON-10 2.5x1.0mm Pitch 0.5mm
-0
-10
-10
-acheron_Components
-USON-10_2.5x1.0mm_P0.5mm 2
 USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
 USON-10 2.5x1.0mm Pitch 0.5mm
 0
@@ -77357,21 +76111,7 @@ Through hole pin header THT 1x14 2.54mm single row
 10
 10
 acheron_Connectors
-Conn_ARM_JTAG_SWD_10 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-10
-10
-acheron_Connectors
 Conn_AVR_ISP_6
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-6
-6
-acheron_Connectors
-Conn_AVR_ISP_6 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77385,21 +76125,7 @@ JST_BM04B-ASRS
 6
 5
 acheron_Connectors
-JST_BM04B-ASRS 2
-
-
-0
-6
-5
-acheron_Connectors
 JST_SM04B-SRSS
-
-
-0
-6
-6
-acheron_Connectors
-JST_SM04B-SRSS 2
 
 
 0
@@ -77413,21 +76139,7 @@ Through hole pin header THT 1x14 2.54mm single row
 2
 2
 acheron_Connectors
-PinHeader_1x2_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-2
-2
-acheron_Connectors
 PinHeader_1x4_P2.54mm_Angled
-
-
-0
-4
-4
-acheron_Connectors
-PinHeader_1x4_P2.54mm_Angled 2
 
 
 0
@@ -77441,21 +76153,7 @@ Through hole pin header THT 1x14 2.54mm single row
 4
 4
 acheron_Connectors
-PinHeader_1x4_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-4
-4
-acheron_Connectors
 PinHeader_1x5_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-5
-5
-acheron_Connectors
-PinHeader_1x5_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77469,21 +76167,7 @@ PinHeader_1x6_P2.54mm_Angled
 6
 6
 acheron_Connectors
-PinHeader_1x6_P2.54mm_Angled 2
-
-
-0
-6
-6
-acheron_Connectors
 PinHeader_1x6_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-6
-6
-acheron_Connectors
-PinHeader_1x6_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77497,21 +76181,7 @@ Through hole pin header THT 1x14 2.54mm single row
 7
 7
 acheron_Connectors
-PinHeader_1x7_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-7
-7
-acheron_Connectors
 PinHeader_1x8_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-8
-8
-acheron_Connectors
-PinHeader_1x8_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77525,21 +76195,7 @@ Through hole pin header THT 1x14 2.54mm single row
 9
 9
 acheron_Connectors
-PinHeader_1x9_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-9
-9
-acheron_Connectors
 PinHeader_1x10_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-10
-10
-acheron_Connectors
-PinHeader_1x10_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77553,21 +76209,7 @@ Through hole pin header THT 1x14 2.54mm single row
 12
 12
 acheron_Connectors
-PinHeader_1x12_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-12
-12
-acheron_Connectors
 PinHeader_1x16_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-16
-16
-acheron_Connectors
-PinHeader_1x16_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77581,21 +76223,7 @@ Through hole pin header THT 1x14 2.54mm single row
 19
 19
 acheron_Connectors
-PinHeader_1x19_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-19
-19
-acheron_Connectors
 PinHeader_1x20_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-20
-20
-acheron_Connectors
-PinHeader_1x20_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77609,21 +76237,7 @@ Through hole pin header THT 1x14 2.54mm single row
 6
 6
 acheron_Connectors
-PinHeader_2x3_P2.54mm_Vertical 2
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-6
-6
-acheron_Connectors
 PinHeader_2x5_P2.54mm_Vertical
-Through hole straight pin header, 1x14, 2.54mm pitch, single row
-Through hole pin header THT 1x14 2.54mm single row
-0
-10
-10
-acheron_Connectors
-PinHeader_2x5_P2.54mm_Vertical 2
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
 0
@@ -77637,21 +76251,7 @@ TYPE-C-31-M-12
 16
 13
 acheron_Connectors
-TYPE-C-31-M-12 2
-
-
-0
-16
-13
-acheron_Connectors
 USB3_A_Amphenol_GSB411B34HR
-USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
-USB 3.0 type A right angle
-0
-19
-10
-acheron_Connectors
-USB3_A_Amphenol_GSB411B34HR 2
 USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
 USB 3.0 type A right angle
 0
@@ -77665,13 +76265,6 @@ USB C Type-C Receptacle Hybrid
 34
 26
 acheron_Connectors
-USB_C_Receptacle_Wurth_Elektronik_632723x00011 2
-USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
-USB C Type-C Receptacle Hybrid
-0
-34
-26
-acheron_Connectors
 USB_MiniB_Hirose_UX60-MB-5S8
 
 
@@ -77679,21 +76272,7 @@ USB_MiniB_Hirose_UX60-MB-5S8
 7
 6
 acheron_Connectors
-USB_MiniB_Hirose_UX60-MB-5S8 2
-
-
-0
-7
-6
-acheron_Connectors
 USB_MiniB_XM7D-0512
-
-
-0
-18
-6
-acheron_Connectors
-USB_MiniB_XM7D-0512 2
 
 
 0
@@ -77707,21 +76286,7 @@ acheron_Hardware
 3
 3
 acheron_Hardware
-3313J 2
-
-
-0
-3
-3
-acheron_Hardware
 9774010243
-SMT steel spacer, M2 internal thread
-
-0
-2
-1
-acheron_Hardware
-9774010243 2
 SMT steel spacer, M2 internal thread
 
 0
@@ -77735,21 +76300,7 @@ SMT steel spacer, M2 internal thread
 2
 1
 acheron_Hardware
-9774030243R 2
-SMT steel spacer, M2 internal thread
-
-0
-2
-1
-acheron_Hardware
 K2-1187SQ-A4SW-06
-ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
-SPST Button Switch
-0
-4
-2
-acheron_Hardware
-K2-1187SQ-A4SW-06 2
 ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
 SPST Button Switch
 0
@@ -77763,21 +76314,7 @@ KEYSTONE-3030
 3
 2
 acheron_Hardware
-KEYSTONE-3030 2
-
-
-0
-3
-2
-acheron_Hardware
 MDBT40-256RV3
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-42
-38
-acheron_Hardware
-MDBT40-256RV3 2
 8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
 SOIC 1.27
 0
@@ -77791,21 +76328,7 @@ MouseBite_IPC7351
 0
 0
 acheron_Hardware
-MouseBite_IPC7351 2
-
-
-0
-0
-0
-acheron_Hardware
 bluePill
-
-
-0
-50
-49
-acheron_Hardware
-bluePill 2
 
 
 0
