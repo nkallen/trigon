@@ -1,4 +1,4 @@
-update=2020 August 15, Saturday 15:10:38
+update=2020 August 15, Saturday 16:01:05
 version=1
 last_client=kicad
 [general]
@@ -270,8 +270,8 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=USB Differential Pair
-Clearance=0.127
-TrackWidth=0.3556
+Clearance=0.1524
+TrackWidth=0.3302
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
