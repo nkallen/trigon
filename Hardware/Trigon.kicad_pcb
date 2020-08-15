@@ -35,7 +35,6 @@
 
   (setup
     (last_trace_width 0.254)
-    (user_trace_width 0.1524)
     (user_trace_width 0.2032)
     (user_trace_width 0.254)
     (user_trace_width 0.3556)
@@ -44,7 +43,7 @@
     (trace_clearance 0.2)
     (zone_clearance 0.25)
     (zone_45_only no)
-    (trace_min 0.1524)
+    (trace_min 0.1778)
     (via_size 0.8)
     (via_drill 0.4)
     (via_min_size 0.4)
@@ -302,15 +301,6 @@
     (add_net nOVR_2)
     (add_net nOVR_3)
     (add_net nOVR_4)
-  )
-
-  (net_class Narrow ""
-    (clearance 0.127)
-    (trace_width 0.254)
-    (via_dia 0.8)
-    (via_drill 0.4)
-    (uvia_dia 0.3)
-    (uvia_drill 0.1)
   )
 
   (net_class Power ""
@@ -13555,11 +13545,6 @@
   (via (at 132.334 16.256) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
   (segment (start 132.22175 16.14375) (end 132.334 16.256) (width 0.381) (layer B.Cu) (net 40))
   (segment (start 130.89375 16.14375) (end 132.22175 16.14375) (width 0.381) (layer B.Cu) (net 40))
-  (via (at 155.575 60.706) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
-  (segment (start 155.575 59.74725) (end 155.575 60.706) (width 0.1524) (layer B.Cu) (net 40))
-  (via (at 149.352 41.148) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
-  (segment (start 149.360417 41.156417) (end 149.352 41.148) (width 0.1524) (layer B.Cu) (net 40))
-  (segment (start 149.360417 42.317424) (end 149.360417 41.156417) (width 0.1524) (layer B.Cu) (net 40))
   (via (at 151.13 41.402) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40) (tstamp 5F366DC7))
   (via (at 140.843 42.418) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
   (segment (start 140.843 43.4085) (end 140.843 42.418) (width 0.381) (layer B.Cu) (net 40))
@@ -13602,6 +13587,11 @@
   (via (at 154.813 46.736) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
   (segment (start 154.78125 46.76775) (end 154.813 46.736) (width 0.381) (layer B.Cu) (net 40))
   (segment (start 154.78125 47.63125) (end 154.78125 46.76775) (width 0.381) (layer B.Cu) (net 40))
+  (via (at 155.575 60.706) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
+  (segment (start 155.575 59.74725) (end 155.575 60.706) (width 0.381) (layer B.Cu) (net 40))
+  (via (at 149.352 41.148) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 40))
+  (segment (start 149.360417 41.156417) (end 149.352 41.148) (width 0.381) (layer B.Cu) (net 40))
+  (segment (start 149.360417 42.317424) (end 149.360417 41.156417) (width 0.381) (layer B.Cu) (net 40))
   (segment (start 149.260417 44.017424) (end 149.360417 44.017424) (width 0.254) (layer B.Cu) (net 41))
   (segment (start 146.84375 46.434091) (end 149.260417 44.017424) (width 0.254) (layer B.Cu) (net 41))
   (segment (start 146.84375 48.275) (end 146.84375 46.434091) (width 0.254) (layer B.Cu) (net 41))

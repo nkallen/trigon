@@ -1,4 +1,4 @@
-update=2020 August 15, Saturday 13:15:44
+update=2020 August 15, Saturday 14:54:59
 version=1
 last_client=kicad
 [general]
@@ -39,12 +39,11 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.254
-TrackWidth2=0.1524
-TrackWidth3=0.2032
-TrackWidth4=0.254
-TrackWidth5=0.3556
-TrackWidth6=0.381
-TrackWidth7=0.508
+TrackWidth2=0.2032
+TrackWidth3=0.254
+TrackWidth4=0.3556
+TrackWidth5=0.381
+TrackWidth6=0.508
 ViaDiameter1=0.8
 ViaDrill1=0.4
 ViaDiameter2=0.45
@@ -263,17 +262,6 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
-Name=Narrow
-Clearance=0.127
-TrackWidth=0.254
-ViaDiameter=0.8
-ViaDrill=0.4
-uViaDiameter=0.3
-uViaDrill=0.1
-dPairWidth=0.2
-dPairGap=0.25
-dPairViaGap=0.25
-[pcbnew/Netclasses/2]
 Name=Power
 Clearance=0.2
 TrackWidth=0.381
@@ -284,7 +272,7 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[pcbnew/Netclasses/3]
+[pcbnew/Netclasses/2]
 Name=USB Differential Pair
 Clearance=0.127
 TrackWidth=0.3556
