@@ -2577,7 +2577,7 @@ F 2 "Connector_JST:JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal" H 19650 129
 F 3 "~" H 19650 12900 50  0001 C CNN
 F 4 "SM05B-SRSS-TB(LF)(SN)" H 19650 12900 50  0001 C CNN "Manufacturer Part #"
 	1    19650 12900
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L power:+5V #PWR0125
