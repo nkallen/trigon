@@ -680,12 +680,7 @@ Connection ~ 19300 3550
 Wire Wire Line
 	19300 3550 19300 4350
 Wire Wire Line
-	20000 1900 20000 2700
-Connection ~ 20000 2700
-Wire Wire Line
 	20000 2700 20000 3550
-Wire Wire Line
-	20750 1900 20750 2700
 Wire Wire Line
 	16600 2300 16950 2300
 Connection ~ 16950 2300
@@ -694,13 +689,6 @@ Wire Wire Line
 Connection ~ 17650 2300
 Wire Wire Line
 	17650 2300 18300 2300
-Connection ~ 18300 2300
-Wire Wire Line
-	18300 2300 19000 2300
-Connection ~ 19000 2300
-Wire Wire Line
-	19000 2300 19700 2300
-Connection ~ 19700 2300
 Wire Wire Line
 	19700 2300 20450 2300
 Connection ~ 20450 2300
@@ -720,9 +708,6 @@ Wire Wire Line
 Connection ~ 19000 3100
 Wire Wire Line
 	19000 3100 19700 3100
-Connection ~ 19700 3100
-Wire Wire Line
-	19700 3100 20450 3100
 Wire Wire Line
 	16600 3950 16950 3950
 Connection ~ 16950 3950
@@ -766,11 +751,7 @@ Wire Wire Line
 	19300 1900 19300 1500
 Connection ~ 19300 1900
 Wire Wire Line
-	20000 1900 20000 1500
-Connection ~ 20000 1900
-Wire Wire Line
 	20750 1900 20750 1500
-Connection ~ 20750 1900
 Wire Wire Line
 	21550 1900 21550 1500
 Connection ~ 17250 1900
@@ -784,8 +765,6 @@ Text GLabel 18600 1500 1    50   Input ~ 0
 COL2
 Text GLabel 19300 1500 1    50   Input ~ 0
 COL3
-Text GLabel 20000 1500 1    50   Input ~ 0
-COL4
 Text GLabel 20750 1500 1    50   Input ~ 0
 COL5
 Text GLabel 21550 1500 1    50   Input ~ 0
@@ -801,63 +780,46 @@ ROW3
 Text GLabel 16600 5600 0    50   Input ~ 0
 ROW4
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
-U 1 1 5F0AE892
-P 3050 3550
-F 0 "U1" H 3050 1661 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 3050 1570 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3050 3550 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3050 3550 50  0001 C CNN
-F 4 "ATMEGA32U4-AU" H 3050 3550 50  0001 C CNN "Manufacturer Part #"
-	1    3050 3550
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:Rotary_Encoder_Switch SW2
 U 1 1 5F0AFDB5
-P 21350 3600
-F 0 "SW2" H 21350 3233 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 21350 3324 50  0000 C CNN
-F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 21200 3760 50  0001 C CNN
-F 3 "~" H 21350 3860 50  0001 C CNN
-	1    21350 3600
-	-1   0    0    1   
+P 21700 3000
+F 0 "SW2" H 21700 2633 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 21700 2724 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 21550 3160 50  0001 C CNN
+F 3 "~" H 21700 3260 50  0001 C CNN
+	1    21700 3000
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D26
 U 1 1 5F0B44C0
-P 20800 3700
-F 0 "D26" V 20846 3632 50  0000 R CNN
-F 1 "D_Small" V 20755 3632 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 20800 3700 50  0001 C CNN
-F 3 "~" V 20800 3700 50  0001 C CNN
-F 4 "1N4148W" H 20800 3700 50  0001 C CNN "Manufacturer Part #"
-	1    20800 3700
+P 21150 3100
+F 0 "D26" V 21196 3032 50  0000 R CNN
+F 1 "D_Small" V 21105 3032 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 21150 3100 50  0001 C CNN
+F 3 "~" V 21150 3100 50  0001 C CNN
+F 4 "1N4148W" H 21150 3100 50  0001 C CNN "Manufacturer Part #"
+	1    21150 3100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	21050 3700 20900 3700
-Wire Wire Line
-	19700 3950 20700 3950
-Wire Wire Line
-	20700 3950 20700 3700
-Connection ~ 19700 3950
+	21400 3100 21250 3100
 $Comp
 L power:GND #PWR0101
 U 1 1 5F0BA8A5
-P 21950 3600
-F 0 "#PWR0101" H 21950 3350 50  0001 C CNN
-F 1 "GND" V 21955 3472 50  0000 R CNN
-F 2 "" H 21950 3600 50  0001 C CNN
-F 3 "" H 21950 3600 50  0001 C CNN
-	1    21950 3600
+P 22300 3000
+F 0 "#PWR0101" H 22300 2750 50  0001 C CNN
+F 1 "GND" V 22305 2872 50  0000 R CNN
+F 2 "" H 22300 3000 50  0001 C CNN
+F 3 "" H 22300 3000 50  0001 C CNN
+	1    22300 3000
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	21650 3600 21950 3600
-Text GLabel 21650 3500 2    50   Input ~ 0
+	22000 3000 22300 3000
+Text GLabel 22000 2900 2    50   Input ~ 0
 ENC1A
-Text GLabel 21650 3700 2    50   Input ~ 0
+Text GLabel 22000 3100 2    50   Input ~ 0
 ENC1B
 $Comp
 L power:+5V #PWR0102
@@ -872,12 +834,6 @@ F 3 "" H 2950 1550 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2950 1550 2950 1750
-Wire Wire Line
-	2950 1750 3050 1750
-Connection ~ 2950 1750
-Connection ~ 3050 1750
-Wire Wire Line
-	3050 1750 3150 1750
 $Comp
 L power:GND #PWR0103
 U 1 1 5F0C46B8
@@ -890,12 +846,7 @@ F 3 "" H 2550 5450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3050 5350 2950 5350
-Wire Wire Line
 	2550 5350 2550 5450
-Connection ~ 2950 5350
-Wire Wire Line
-	2950 5350 2550 5350
 $Comp
 L Device:R_Small R6
 U 1 1 5F0C7AB1
@@ -1251,38 +1202,31 @@ F 4 "1206L050YR" H 3700 7250 50  0001 C CNN "Manufacturer Part #"
 	1    3700 7250
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	21050 3500 20750 3500
-Wire Wire Line
-	20750 3500 20750 2700
-Connection ~ 20750 2700
-Text GLabel 3650 3650 2    50   Input ~ 0
+Text GLabel 3650 2650 2    50   Input ~ 0
 COL0
-Text GLabel 3650 3850 2    50   Input ~ 0
+Text GLabel 3650 2550 2    50   Input ~ 0
 COL1
 Text GLabel 3650 2450 2    50   Input ~ 0
 COL2
-Text GLabel 3650 2550 2    50   Input ~ 0
+Text GLabel 3650 3950 2    50   Input ~ 0
 COL3
 Text GLabel 3650 2950 2    50   Input ~ 0
 COL4
-Text GLabel 3650 3050 2    50   Input ~ 0
+Text GLabel 3650 2050 2    50   Input ~ 0
 COL5
-Text GLabel 3650 3750 2    50   Input ~ 0
-COL6
 Text GLabel 3650 2750 2    50   Input ~ 0
-ROW0
-Text GLabel 3650 3950 2    50   Input ~ 0
+COL6
+Text GLabel 3650 3650 2    50   Input ~ 0
 ROW4
-Text GLabel 3650 2650 2    50   Input ~ 0
+Text GLabel 3650 3850 2    50   Input ~ 0
 ROW3
 Text GLabel 3650 4650 2    50   Input ~ 0
 ROW2
 Text GLabel 3650 4450 2    50   Input ~ 0
 ROW1
-Text GLabel 3650 4850 2    50   Input ~ 0
+Text GLabel 3650 3750 2    50   Input ~ 0
 ENC1B
-Text GLabel 3650 4950 2    50   Input ~ 0
+Text GLabel 3650 3550 2    50   Input ~ 0
 ENC1A
 Wire Wire Line
 	3100 7750 3100 7950
@@ -1305,7 +1249,7 @@ U 1 1 5F62F0D2
 P 1400 15700
 F 0 "MH1" H 1480 15742 50  0000 L CNN
 F 1 "Mount-M2" H 1480 15651 50  0000 L CNN
-F 2 "random-keyboard-parts:Generic-Mounthole" H 1400 15700 50  0001 C CNN
+F 2 "CustomMounting:MountingHole_3.2mm_M3_Pad_v2" H 1400 15700 50  0001 C CNN
 F 3 "~" H 1400 15700 50  0001 C CNN
 	1    1400 15700
 	-1   0    0    1   
@@ -1316,7 +1260,7 @@ U 1 1 5F62FB5D
 P 1400 15400
 F 0 "MH2" H 1480 15442 50  0000 L CNN
 F 1 "Mount-M2" H 1480 15351 50  0000 L CNN
-F 2 "random-keyboard-parts:Generic-Mounthole" H 1400 15400 50  0001 C CNN
+F 2 "CustomMounting:MountingHole_3.2mm_M3_Pad_v2" H 1400 15400 50  0001 C CNN
 F 3 "~" H 1400 15400 50  0001 C CNN
 	1    1400 15400
 	-1   0    0    1   
@@ -1327,7 +1271,7 @@ U 1 1 5F630925
 P 1400 15100
 F 0 "MH3" H 1480 15142 50  0000 L CNN
 F 1 "Mount-M2" H 1480 15051 50  0000 L CNN
-F 2 "random-keyboard-parts:Generic-Mounthole" H 1400 15100 50  0001 C CNN
+F 2 "CustomMounting:MountingHole_3.2mm_M3_Pad_v2" H 1400 15100 50  0001 C CNN
 F 3 "~" H 1400 15100 50  0001 C CNN
 	1    1400 15100
 	-1   0    0    1   
@@ -1338,7 +1282,7 @@ U 1 1 5F6318D1
 P 1400 14800
 F 0 "MH4" H 1480 14842 50  0000 L CNN
 F 1 "Mount-M2" H 1480 14751 50  0000 L CNN
-F 2 "random-keyboard-parts:Generic-Mounthole" H 1400 14800 50  0001 C CNN
+F 2 "CustomMounting:MountingHole_3.2mm_M3_Pad_v2" H 1400 14800 50  0001 C CNN
 F 3 "~" H 1400 14800 50  0001 C CNN
 	1    1400 14800
 	-1   0    0    1   
@@ -1371,17 +1315,11 @@ Wire Notes Line
 	2150 15950 2150 14550
 Wire Notes Line
 	2150 14550 750  14550
-NoConn ~ 3650 2050
-NoConn ~ 3650 2150
-NoConn ~ 3650 2250
-NoConn ~ 3650 2350
 NoConn ~ 3650 3250
 NoConn ~ 3650 3350
 NoConn ~ 3650 3450
-NoConn ~ 3650 3550
 NoConn ~ 3650 4250
 NoConn ~ 3650 4550
-NoConn ~ 3650 4750
 $Comp
 L power:+5V #PWR0123
 U 1 1 5F6F7FB9
@@ -2672,5 +2610,76 @@ Wire Wire Line
 Wire Wire Line
 	19450 12300 19250 12300
 NoConn ~ 19450 12800
-NoConn ~ 13150 12200
+Wire Wire Line
+	21050 3100 20450 3100
+Wire Wire Line
+	21400 2900 21400 2500
+Wire Wire Line
+	21400 2500 21550 2500
+Wire Wire Line
+	21550 2500 21550 1900
+Connection ~ 21550 1900
+Wire Wire Line
+	2950 5350 2550 5350
+Wire Wire Line
+	3050 5350 2950 5350
+Connection ~ 2950 5350
+Connection ~ 2950 1750
+Wire Wire Line
+	3050 1750 3150 1750
+Wire Wire Line
+	2950 1750 3050 1750
+Connection ~ 3050 1750
+Text GLabel 3650 4750 2    50   Input ~ 0
+ROW0
+Connection ~ 20750 1900
+Wire Wire Line
+	20750 1900 20750 2700
+Text GLabel 20250 2600 1    50   Input ~ 0
+COL4
+Connection ~ 18300 2300
+Wire Wire Line
+	18300 2300 19000 2300
+Wire Wire Line
+	20250 2600 20250 2700
+Wire Wire Line
+	20250 2700 20000 2700
+Connection ~ 20000 2700
+Text GLabel 20000 1550 1    50   Input ~ 0
+COL3.5
+Wire Wire Line
+	20000 1550 20000 1900
+Wire Wire Line
+	19600 1750 19600 2300
+Wire Wire Line
+	19600 2300 19700 2300
+Connection ~ 19700 2300
+Text GLabel 3650 2250 2    50   Input ~ 0
+ROW0.5
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5F0AE892
+P 3050 3550
+F 0 "U1" H 3050 1661 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 3050 1570 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3050 3550 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3050 3550 50  0001 C CNN
+F 4 "ATMEGA32U4-AU" H 3050 3550 50  0001 C CNN "Manufacturer Part #"
+	1    3050 3550
+	1    0    0    -1  
+$EndComp
+Text GLabel 3650 2150 2    50   Input ~ 0
+COL3.5
+Text GLabel 20450 3350 0    50   Input ~ 0
+ROW1.5
+Wire Wire Line
+	20450 3350 20450 3100
+Connection ~ 20450 3100
+Text GLabel 3650 2350 2    50   Input ~ 0
+ROW1.5
+NoConn ~ 3650 4850
+NoConn ~ 3650 4950
+NoConn ~ 3650 3050
+Text GLabel 19600 1750 1    50   Input ~ 0
+ROW0.5
 $EndSCHEMATC
