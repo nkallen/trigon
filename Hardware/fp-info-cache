@@ -1,4 +1,4 @@
-17280018359362801
+17372709921049131
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76125,20 +76125,6 @@ Through hole pin header THT 1x14 2.54mm single row
 6
 6
 acheron_Connectors
-JST_BM04B-ASRS
-
-
-0
-6
-5
-acheron_Connectors
-JST_SM04B-SRSS
-
-
-0
-6
-6
-acheron_Connectors
 PinHeader_1x2_P2.54mm_Vertical
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
 Through hole pin header THT 1x14 2.54mm single row
@@ -76384,6 +76370,13 @@ QFN 0.5
 45
 33
 josh-dfn-qfn
+QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+75
+45
+josh-dfn-qfn
 QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm_ThermalVias
 QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -76432,6 +76425,405 @@ WSON NoLead
 0
 9
 7
+josh-keyboard
+Choc_Hotswap
+
+
+0
+2
+2
+josh-keyboard
+DUMMY_SK6812MINI-E
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+4
+0
+josh-keyboard
+Kailh_Hotswap_1U
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+14
+2
+josh-keyboard
+MX-LEDONLY
+
+
+0
+2
+2
+josh-keyboard
+MX-LEDONLY-FLIPPED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.5U-FLIPPED
+
+
+0
+4
+4
+josh-keyboard
+MXOnly-1.5U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.5U-Vertical-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.25U-FLIPPED
+
+
+0
+4
+4
+josh-keyboard
+MXOnly-1.25U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1.75U-FLIPPED
+
+
+0
+4
+4
+josh-keyboard
+MXOnly-1.75U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-1U-FLIPPED
+
+
+0
+4
+4
+josh-keyboard
+MXOnly-1U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.25U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.75U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2.75U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-2U-ReversedStabilizers-NoLED-3PIN
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-3U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-3U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6.25U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-Centered-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-Centered-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MXOnly-6U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_1.5U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_1.25U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_1.75U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2.5U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2.5U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2.25U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2.25U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2.75U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_2U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+2
+2
+josh-keyboard
+MX_KEYSWITCH_ENCODER
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+5
+josh-keyboard
+MX_KEYSWITCH_ENCODER_RGB
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+11
+9
+josh-keyboard
+MX_KEYSWITCH_RGB
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_1.5U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_1.25U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_1.75U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2.5U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2.5U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2.25U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2.25U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2.75U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2.75U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2U
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+MX_KEYSWITCH_RGB_2U_REV_STABS
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+6
+6
+josh-keyboard
+TRACKBALL
+
+
+0
+0
+0
+josh-keyboard
+Trackball_Tactile_Switch
+
+
+0
+4
+2
 josh-passives-smt
 D_SOD-123FL
 D_SOD-123F

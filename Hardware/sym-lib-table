@@ -3,4 +3,5 @@
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name acheronSymbols)(type Legacy)(uri ${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib)(options "")(descr ""))
   (lib (name josh-ic)(type Legacy)(uri ${KIPRJMOD}/josh-kicad-lib/josh-ic.lib)(options "")(descr ""))
+  (lib (name Trigon-rescue)(type Legacy)(uri ${KIPRJMOD}/Trigon-rescue.lib)(options "")(descr ""))
 )

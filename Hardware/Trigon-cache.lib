@@ -382,11 +382,11 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
-# acheronSymbols_TYPE-C-31-M12_13
+# Trigon-rescue_TYPE-C-31-M12_13-acheronSymbols
 #
-DEF acheronSymbols_TYPE-C-31-M12_13 J 0 40 Y Y 1 F N
+DEF Trigon-rescue_TYPE-C-31-M12_13-acheronSymbols J 0 40 Y Y 1 F N
 F0 "J" -50 1400 50 H V L CNN
-F1 "acheronSymbols_TYPE-C-31-M12_13" 400 1300 50 H V R CNN
+F1 "Trigon-rescue_TYPE-C-31-M12_13-acheronSymbols" 400 1300 50 H V R CNN
 F2 "acheronConnectors:TYPE-C-31-M-12" -500 50 50 V I C CNN
 F3 "" 200 50 50 H I C CNN
 $FPLIST

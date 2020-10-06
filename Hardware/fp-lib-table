@@ -9,4 +9,5 @@
   (lib (name josh-passives-smt)(type KiCad)(uri ${KIPRJMOD}/josh-kicad-lib/josh-passives-smt.pretty)(options "")(descr ""))
   (lib (name josh-dfn-qfn)(type KiCad)(uri ${KIPRJMOD}/josh-kicad-lib/josh-dfn-qfn.pretty)(options "")(descr ""))
   (lib (name CustomMounting)(type KiCad)(uri ${KIPRJMOD}/CustomMounting.pretty)(options "")(descr ""))
+  (lib (name josh-keyboard)(type KiCad)(uri ${KIPRJMOD}/josh-kicad-lib/josh-keyboard.pretty)(options "")(descr ""))
 )
