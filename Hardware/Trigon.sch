@@ -2642,8 +2642,6 @@ F 4 "ATMEGA32U4-AU" H 3050 3550 50  0001 C CNN "Manufacturer Part #"
 	1    3050 3550
 	1    0    0    -1  
 $EndComp
-Text GLabel 3650 2150 2    50   Input ~ 0
-COL3.5
 Text GLabel 20450 3350 0    50   Input ~ 0
 ROW1.5
 Wire Wire Line
@@ -2679,4 +2677,5 @@ Wire Wire Line
 	19300 1900 19300 2700
 Connection ~ 19300 1900
 Connection ~ 19300 2700
+NoConn ~ 3650 2150
 $EndSCHEMATC
