@@ -2690,4 +2690,26 @@ Wire Notes Line
 	22650 14100 17650 14100
 Wire Notes Line
 	17650 14100 17650 12800
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6080F99B
+P 2150 14300
+F 0 "H2" H 2250 14346 50  0000 L CNN
+F 1 "Logo" H 2250 14255 50  0000 L CNN
+F 2 "Trigon:back" H 2150 14300 50  0001 C CNN
+F 3 "~" H 2150 14300 50  0001 C CNN
+	1    2150 14300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6084B3F1
+P 3300 14300
+F 0 "H3" H 3400 14346 50  0000 L CNN
+F 1 "Logo" H 3400 14255 50  0000 L CNN
+F 2 "Trigon:backside" H 3300 14300 50  0001 C CNN
+F 3 "~" H 3300 14300 50  0001 C CNN
+	1    3300 14300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
